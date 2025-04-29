@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OESA", "OESA\OESA.csproj", "{9740D209-3E4C-4051-9901-018B28D19108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9740D209-3E4C-4051-9901-018B28D19108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9740D209-3E4C-4051-9901-018B28D19108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9740D209-3E4C-4051-9901-018B28D19108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9740D209-3E4C-4051-9901-018B28D19108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A8DB902-EC1F-49E0-968C-F964BD884BB7}
+	EndGlobalSection
+EndGlobal
