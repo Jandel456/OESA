@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OESA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+84f58880747399f391047ab9105e2bf7b464015d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+51bb19d160e716db9978b3f201a6d420d8b9acd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("OESA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OESA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

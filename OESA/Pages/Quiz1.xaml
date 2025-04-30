@@ -3,10 +3,22 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="OESA.Pages.Quiz1"
              Title="Quiz1">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+    <ScrollView>
+        <CollectionView ItemsSource="{Binding CurrentQuestion}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <VerticalStackLayout Padding="10">
+                        <!-- Question Text -->
+                        <Label Text="{Binding QuestionText}" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" />
+
+                        <!-- Options for the question -->
+                        <RadioButton Content="{Binding Options[0]}" GroupName="{Binding QuestionText}" />
+                        <RadioButton Content="{Binding Options[1]}" GroupName="{Binding QuestionText}" />
+                        <RadioButton Content="{Binding Options[2]}" GroupName="{Binding QuestionText}" />
+                        <RadioButton Content="{Binding Options[3]}" GroupName="{Binding QuestionText}" />
+                    </VerticalStackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </ScrollView>
 </ContentPage>
