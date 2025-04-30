@@ -3,10 +3,46 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="OESA.Pages.SelectQuiz"
              Title="SelectQuiz">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+
+
+    <ScrollView>
+        
+        <VerticalStackLayout Padding="20" Spacing="25" VerticalOptions="Center">
+
+            <Label Text="Select A Button"
+               FontSize="32"
+               HorizontalOptions="Center"
+               TextColor="Black" />
+
+            <!-- Instead of adding each quiz and description in xaml, we make an array in C# and add the details there -->
+            <FlexLayout 
+                BindableLayout.ItemsSource="{Binding QuizList}"  
+                Wrap="Wrap"
+                JustifyContent="Center"
+                AlignItems="Center"
+                Padding="10">
+
+                <BindableLayout.ItemTemplate>
+                    <DataTemplate>
+                        <VerticalStackLayout Spacing="5" Margin="10" HorizontalOptions="Center">
+
+                            <Button Text="{Binding Title}" 
+                            Command="{Binding QuizLocation}"
+                            WidthRequest="300" 
+                            HeightRequest="100" />
+
+                            <Label Text="{Binding Description}" 
+                            FontSize="20" 
+                            HorizontalTextAlignment="Center"
+                            TextColor="Gray" />
+
+                        </VerticalStackLayout>
+                    </DataTemplate>
+                </BindableLayout.ItemTemplate>
+            
+            </FlexLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+
+
 </ContentPage>
