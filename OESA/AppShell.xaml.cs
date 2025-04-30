@@ -1,5 +1,6 @@
 ﻿using CommunityToolkit.Maui.Alerts;
 using CommunityToolkit.Maui.Core;
+using OESA.Pages;
 using Font = Microsoft.Maui.Font;
 
 namespace OESA
@@ -11,6 +12,19 @@ namespace OESA
             InitializeComponent();
             var currentTheme = Application.Current!.UserAppTheme;
             ThemeSegmentedControl.SelectedIndex = currentTheme == AppTheme.Light ? 0 : 1;
+
+            // Setting up all the routes in the application startup instead putting the routes inside every page
+            Routing.RegisterRoute(nameof(Homepage), typeof(Homepage));
+            Routing.RegisterRoute(nameof(Login), typeof(Login));
+            Routing.RegisterRoute(nameof(SignUp), typeof(SignUp));
+
+            Routing.RegisterRoute(nameof(Logout), typeof(Logout));
+
+            Routing.RegisterRoute(nameof(SelectQuiz), typeof(SelectQuiz));
+            Routing.RegisterRoute(nameof(Quiz1), typeof(Quiz1));
+            Routing.RegisterRoute(nameof(Quiz2), typeof(Quiz2));
+            Routing.RegisterRoute(nameof(Quiz3), typeof(Quiz3));
+
         }
         public static async Task DisplaySnackbarAsync(string message)
         {

@@ -8,23 +8,28 @@
     Shell.FlyoutBehavior="Flyout"
     Title="OESA">
 
+    <ShellItem Route="Homepage">
+        <ShellContent ContentTemplate="{DataTemplate pages:Homepage}" />
+    </ShellItem>
+
+    <!-- Sidebar layout stuff -->
     <ShellContent
-        Title="Dashboard"
-        Icon="{StaticResource IconDashboard}"
-        ContentTemplate="{DataTemplate pages:MainPage}"
-        Route="main" />
+        Title="Home"
+        Icon="Home.png"
+        ContentTemplate="{DataTemplate pages:Homepage}"
+        Route="Homepage" />
 
     <ShellContent
-        Title="Projects"
-        Icon="{StaticResource IconProjects}"
-        ContentTemplate="{DataTemplate pages:ProjectListPage}"
-        Route="projects" />
+        Title="Select Quiz"
+        Icon="Select.png"
+        ContentTemplate="{DataTemplate pages:SelectQuiz}"
+        Route="SelectQuiz" />
 
     <ShellContent
-        Title="Manage Meta"
-        Icon="{StaticResource IconMeta}"
-        ContentTemplate="{DataTemplate pages:ManageMetaPage}"
-        Route="manage" />
+        Title="Log Out"
+        Icon="Logout.png"
+        ContentTemplate="{DataTemplate pages:Logout}"
+        Route="Logout" />
 
     <Shell.FlyoutFooter>
         <Grid Padding="15">

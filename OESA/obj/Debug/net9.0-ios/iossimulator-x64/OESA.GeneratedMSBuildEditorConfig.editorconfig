@@ -61,35 +61,53 @@ build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Controls.TaskVi
 build_metadata.AdditionalFiles.TargetPath = Pages\Controls\TaskView.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Controls\TaskView.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/MainPage.xaml]
+[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Homepage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Homepage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Homepage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Homepage.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/ManageMetaPage.xaml]
+[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Login.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.ManageMetaPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\ManageMetaPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\ManageMetaPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Login.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/ProjectDetailPage.xaml]
+[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Logout.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.ProjectDetailPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\ProjectDetailPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\ProjectDetailPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Logout.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Logout.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Logout.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/ProjectListPage.xaml]
+[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Quiz1.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.ProjectListPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\ProjectListPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\ProjectListPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Quiz1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Quiz1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Quiz1.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/TaskDetailPage.xaml]
+[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Quiz2.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.TaskDetailPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\TaskDetailPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\TaskDetailPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Quiz2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Quiz2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Quiz2.xaml
+
+[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Quiz3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Quiz3.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Quiz3.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Quiz3.xaml
+
+[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/SelectQuiz.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.SelectQuiz.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SelectQuiz.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SelectQuiz.xaml
+
+[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/SignUp.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.SignUp.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SignUp.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SignUp.xaml
 
 [C:/Users/Jandel_Win/source/repos/OESA/OESA/Resources/Styles/AppStyles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
