@@ -1,3 +1,4 @@
+using System.ComponentModel;
 using System.Globalization;
 using Microsoft.Maui.Controls;
 namespace OESA.Pages;
@@ -21,38 +22,44 @@ public partial class Quiz1 : ContentPage
         {
             new QuestionItem
             {
-                QuestionText = "What is the capital of France?",
-                Options = new List<string> { "Berlin", "Madrid", "Paris", "Rome" },
-                CorrectAnswer = "Paris",
+                QuestionText = "What must you do when a browser sends data?",
+                Options = new List<string> { "Collect", "Validate", "Check for processing", "Escape or sanitize data", "All of the above"},
+                CorrectAnswer = "All of the above",
+                SelectedAnswer = null
             },
             new QuestionItem
             {
-                QuestionText = "Which planet is known as the Red Planet?",
-                Options = new List<string> { "Earth", "Venus", "Mars", "Jupiter" },
-                CorrectAnswer = "Mars",
+                QuestionText = "The input element is the most important form element and can be displayed in several ways, depending on the type attribute.",
+                Options = new List<string> { "True", "False"},
+                CorrectAnswer = "True",
+                SelectedAnswer = null
             },
             new QuestionItem
             {
-                QuestionText = "What is the largest ocean?",
-                Options = new List<string> { "Atlantic", "Indian", "Arctic", "Pacific" },
-                CorrectAnswer = "Pacific",
+                QuestionText = "Why should data be validated when it is collected?",
+                Options = new List<string> { "Ensure required values have been provided", "Check data is in a usable format/range", "All of the above", "It's best practice"},
+                CorrectAnswer = "All of the above",
+                SelectedAnswer = null
+            },
+
+            new QuestionItem
+            {
+                QuestionText = "What does a php page do?",
+                Options = new List<string> { "MIX HTML & PHP", "Make HTML", "Make PHP", "Huh?!"},
+                CorrectAnswer = "MIX HTML & PHP",
+                SelectedAnswer = null
+            },
+
+            new QuestionItem
+            {
+                QuestionText = "What kind of data type is an array?",
+                Options = new List<string> { "Boolean data type", "Compound data type", "Reference data type", "Primitive data type"},
+                CorrectAnswer = "Compound data type",
+                SelectedAnswer = null
             }
         };
 
         BindingContext = this;
-    }
-
-    public class QuestionItem
-    {
-        public required string QuestionText { get; set; }
-        public required List<string> Options { get; set; }
-        public required string CorrectAnswer { get; set; }
-        public string? SelectedAnswer { get; set; }  // we make this optional now, so we can give an error message to force the user to select an answer later
-
-        public QuestionItem()
-        {
-            SelectedAnswer = null;  // Ensures SelectedAnswer starts as null
-        }
     }
 
     private async void OnSubmit(object sender, EventArgs e)
@@ -66,6 +73,9 @@ public partial class Quiz1 : ContentPage
         {
             var question = CurrentQuestion[i];
 
+            System.Diagnostics.Debug.WriteLine($"Question {i + 1}: '{question.QuestionText}' - SelectedAnswer: '{question.SelectedAnswer}'");
+
+
             if (string.IsNullOrEmpty(question.SelectedAnswer))
             {
                 unansweredQuestions.Add($"Question {i + 1}: {question.QuestionText}");
@@ -77,7 +87,7 @@ public partial class Quiz1 : ContentPage
             }
         }
 
-        if (unansweredQuestions.Any())
+        if (unansweredQuestions.Count > 0)
         {
             foreach (var unanswered in unansweredQuestions)
             {
