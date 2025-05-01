@@ -1,24 +1,58 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:OESA"
              x:Class="OESA.Pages.Quiz1"
              Title="Quiz1">
-    <ScrollView>
-        <CollectionView ItemsSource="{Binding CurrentQuestion}">
-            <CollectionView.ItemTemplate>
-                <DataTemplate>
-                    <VerticalStackLayout Padding="10">
-                        <!-- Question Text -->
-                        <Label Text="{Binding QuestionText}" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" />
 
-                        <!-- Options for the question -->
-                        <RadioButton Content="{Binding Options[0]}" GroupName="{Binding QuestionText}" />
-                        <RadioButton Content="{Binding Options[1]}" GroupName="{Binding QuestionText}" />
-                        <RadioButton Content="{Binding Options[2]}" GroupName="{Binding QuestionText}" />
-                        <RadioButton Content="{Binding Options[3]}" GroupName="{Binding QuestionText}" />
-                    </VerticalStackLayout>
-                </DataTemplate>
-            </CollectionView.ItemTemplate>
-        </CollectionView>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:Converter x:Key="Converter"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="20">
+            <CollectionView ItemsSource="{Binding CurrentQuestion}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <VerticalStackLayout Padding="10">
+                            
+                            <Label Text="{Binding QuestionText}" FontSize="20" FontAttributes="Bold" HorizontalTextAlignment="Start" />
+
+                            <RadioButton GroupName="{Binding QuestionText}" 
+                                         Content="{Binding Options[0]}" 
+                                         IsChecked="{Binding SelectedAnswer, 
+                                                          Converter={StaticResource Converter}, 
+                                                          ConverterParameter={Binding Options[0]}}" />
+                            
+                            <RadioButton GroupName="{Binding QuestionText}" 
+                                         Content="{Binding Options[1]}" 
+                                         IsChecked="{Binding SelectedAnswer, 
+                                                          Converter={StaticResource Converter}, 
+                                                          ConverterParameter={Binding Options[1]}}" />
+                            
+                            <RadioButton GroupName="{Binding QuestionText}" 
+                                         Content="{Binding Options[2]}" 
+                                         IsChecked="{Binding SelectedAnswer, 
+                                                          Converter={StaticResource Converter}, 
+                                                          ConverterParameter={Binding Options[2]}}" />
+                            
+                            <RadioButton GroupName="{Binding QuestionText}" 
+                                         Content="{Binding Options[3]}" 
+                                         IsChecked="{Binding SelectedAnswer, 
+                                                          Converter={StaticResource Converter}, 
+                                                          ConverterParameter={Binding Options[3]}}" />
+                        </VerticalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <Button Text="Submit" 
+                    Clicked="OnSubmit"
+                    WidthRequest="300" 
+                    HeightRequest="100" />
+            
+        </VerticalStackLayout>
     </ScrollView>
 </ContentPage>
