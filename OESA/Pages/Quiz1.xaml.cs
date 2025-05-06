@@ -6,17 +6,13 @@ namespace OESA.Pages;
 public partial class Quiz1 : ContentPage
 {
     public List<QuestionItem> CurrentQuestion { get; set; }
-    public string QuestionText { get; set; }
-    public string Option1 { get; set; }
-    public string Option2 { get; set; }
-    public string Option3 { get; set; }
-    public string Option4 { get; set; }
-
-    public Command SubmitCommand { get; set; }
 
     public Quiz1()
     {
         InitializeComponent();
+
+        UserLabel.Text = $"Hi, {SessionManager.UserName}";
+
 
         CurrentQuestion = new List<QuestionItem>
         {
@@ -98,4 +94,20 @@ public partial class Quiz1 : ContentPage
 
         await DisplayAlert("Quiz Result", $"You scored {score} out of {CurrentQuestion.Count}", "OK");
     }
+
+    private void OnRadioCheckedChanged(object sender, CheckedChangedEventArgs e)
+    {
+        if (sender is RadioButton rb && e.Value)
+        {
+            var selectedOption = rb.Content?.ToString();
+            var questionItem = (rb?.Parent?.Parent?.BindingContext as QuestionItem);
+
+            if (questionItem != null)
+            {
+                questionItem.SelectedAnswer = selectedOption;
+                System.Diagnostics.Debug.WriteLine($"Selected '{selectedOption}' for '{questionItem.QuestionText}'");
+            }
+        }
+    }
+
 }

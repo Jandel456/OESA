@@ -9,6 +9,8 @@ public partial class SelectQuiz : ContentPage
 	{
 		InitializeComponent();
 
+        UserLabel.Text = $"Hi, {SessionManager.UserName}";
+
         QuizList = new List<ButtonItem>
         {
             new ButtonItem { Title = "Quiz 1: General PHP Knowledge", Description = "Test your knowledge in PHP practices", QuizLocation = new Command(GotoQuiz1) },

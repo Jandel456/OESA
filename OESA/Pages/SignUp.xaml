@@ -3,10 +3,32 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="OESA.Pages.SignUp"
              Title="SignUp">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <Grid Padding="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <HorizontalStackLayout Grid.Row="0" HorizontalOptions="End">
+                    <Label x:Name="UserLabel"
+                   FontSize="14"
+                   FontAttributes="Bold"
+                   TextColor="DarkSlateGray" />
+                </HorizontalStackLayout>
+            </Grid>
+            
+            <Entry x:Name="FirstNameEntry"          Placeholder="First Name" />
+            <Entry x:Name="LastNameEntry"           Placeholder="Last Name" />
+            <Entry x:Name="EmailEntry"              Placeholder="Email"             Keyboard="Email" />
+            <Entry x:Name="PasswordEntry"           Placeholder="Password"          IsPassword="True" />
+            <Entry x:Name="ConfirmPasswordEntry"    Placeholder="Confirm Password"  IsPassword="True" />
+
+            <Button Text="Register" Clicked="OnRegisterClicked" />
+            <Label x:Name="MessageLabel" TextColor="Red" />
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>
