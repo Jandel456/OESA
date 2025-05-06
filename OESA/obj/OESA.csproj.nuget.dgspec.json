@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\OESA.csproj": {}
+    "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\OESA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\OESA.csproj": {
+    "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\OESA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\OESA.csproj",
+        "projectUniqueName": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\OESA.csproj",
         "projectName": "OESA",
-        "projectPath": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\OESA.csproj",
-        "packagesPath": "C:\\Users\\Jandel_Win\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\obj\\",
+        "projectPath": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\OESA.csproj",
+        "packagesPath": "C:\\Users\\sacre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jandel_Win\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sacre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
