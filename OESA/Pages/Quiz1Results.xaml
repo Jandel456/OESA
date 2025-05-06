@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="OESA.Pages.Quiz1Results"
+             Title="Quiz1Results">
+
+
+    <ScrollView>
+            <VerticalStackLayout Padding="20" Spacing="15">
+                <Label Text="Quiz Results" FontSize="28" FontAttributes="Bold" HorizontalOptions="Center" />
+
+                <Label Text="{Binding StudentInfo}" FontSize="16" />
+
+                <Label Text="{Binding ScoreSummary}" FontSize="16" />
+
+                <CollectionView ItemsSource="{Binding QuestionReviews}">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Frame BorderColor="Gray" Padding="10" CornerRadius="12">
+                                <VerticalStackLayout Spacing="5">
+                                    <Label Text="{Binding QuestionText}" FontAttributes="Bold" />
+                                    <Label Text="{Binding StudentAnswerDisplay}" />
+                                    <Label Text="{Binding CorrectAnswerDisplay}" />
+                                </VerticalStackLayout>
+                            </Frame>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+
+                <Label Text="{Binding SubmissionTimeDisplay}" FontSize="12" HorizontalOptions="End" />
+            </VerticalStackLayout>
+        </ScrollView>
+    </ContentPage>

@@ -5,6 +5,21 @@ public partial class Logout : ContentPage
     public Logout()
     {
         InitializeComponent();
+
+
+        SessionManager.storedEmail = SessionManager.Email;
+        SessionManager.storedPassword = SessionManager.Password;
+        SessionManager.storedID = SessionManager.ID;
+        SessionManager.storedUserName = SessionManager.UserName;
+        SessionManager.storedFirstName = SessionManager.FirstName;
+        SessionManager.storedLastName = SessionManager.LastName;
+
+        SessionManager.Email = string.Empty;
+        SessionManager.Password = string.Empty;
+        SessionManager.ID = 0;
+        SessionManager.UserName = string.Empty;
+        SessionManager.FirstName = string.Empty;
+        SessionManager.LastName = string.Empty;
         UserLabel.Text = $"Hi, {SessionManager.UserName}";
     }
 
@@ -16,9 +31,6 @@ public partial class Logout : ContentPage
 
     private async Task PerformLogoutAsync()
     {
-        SessionManager.Email = string.Empty;
-        SessionManager.Password = string.Empty;
-
-        await Shell.Current.GoToAsync("login");
+        await Shell.Current.GoToAsync("Login");             /// broken
     }
 }   

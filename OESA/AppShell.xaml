@@ -33,6 +33,18 @@
         ContentTemplate="{DataTemplate pages:SignUp}"
         Route="SignUp" />
 
+    <ShellContent
+        Title="StudentInfo"
+        Icon="StudentInfo.png"
+        ContentTemplate="{DataTemplate pages:StudentInfo}"
+        Route="StudentInfo" />
+
+    <ShellContent
+        Title="Report"
+        Icon="Report.png"
+        ContentTemplate="{DataTemplate pages:Report}"
+        Route="Report" />
+
     <Shell.FlyoutFooter>
         <Grid Padding="15">
             <sf:SfSegmentedControl x:Name="ThemeSegmentedControl" 

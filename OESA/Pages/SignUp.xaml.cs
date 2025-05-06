@@ -1,3 +1,4 @@
+using System;
 using System.Text.RegularExpressions;
 
 namespace OESA.Pages;
@@ -67,11 +68,18 @@ public partial class SignUp : ContentPage
         }
         else
         {
-            SessionManager.UserName = $"{firstName} {lastName}";
+
             MessageLabel.TextColor = Colors.Green;
             MessageLabel.Text = "Registration successful!";
+
+            SessionManager.UserName = $"{firstName} {lastName}";
+            SessionManager.FirstName = firstName;
+            SessionManager.LastName = lastName;
             SessionManager.Email = email;
             SessionManager.Password = password;
+            Random rnd = new Random();
+            SessionManager.ID = rnd.Next(1000, 10000); ;
+
 
             await Task.Delay(1500); // 1.5 seconds
             await Navigation.PushAsync(new SelectQuiz());

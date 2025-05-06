@@ -85,6 +85,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Quiz1.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Quiz1.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Quiz1.xaml
 
+[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Quiz1Results.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Quiz1Results.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Quiz1Results.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Quiz1Results.xaml
+
 [C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Quiz2.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Quiz2.xaml
@@ -97,6 +103,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Quiz3.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Quiz3.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Quiz3.xaml
 
+[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Report.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Report.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Report.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Report.xaml
+
 [C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/SelectQuiz.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.SelectQuiz.xaml
@@ -108,6 +120,12 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.SignUp.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\SignUp.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\SignUp.xaml
+
+[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/StudentInfo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.StudentInfo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\StudentInfo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\StudentInfo.xaml
 
 [C:/Users/Jandel_Win/source/repos/OESA/OESA/Resources/Styles/AppStyles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

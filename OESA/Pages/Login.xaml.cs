@@ -13,14 +13,19 @@ public partial class Login : ContentPage
 
     private async void OnLoginClicked(object sender, EventArgs e)
     {
-        string storedEmail = SessionManager.Email;
-        string storedPassword = SessionManager.Password;
-
         string email = EmailEntry.Text?.Trim();
         string password = PasswordEntry.Text;
 
-        if (email == storedEmail && password == storedPassword)
+        if (email == SessionManager.storedEmail && password == SessionManager.storedPassword)
         {
+
+            SessionManager.Email = SessionManager.storedEmail;
+            SessionManager.Password = SessionManager.storedPassword;
+            SessionManager.ID = SessionManager.storedID;
+            SessionManager.UserName = SessionManager.storedUserName;
+            SessionManager.FirstName = SessionManager.storedFirstName;
+            SessionManager.LastName = SessionManager.storedLastName;
+
             await Shell.Current.GoToAsync("SelectQuiz");
         }
         else

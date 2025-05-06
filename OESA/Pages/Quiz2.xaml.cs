@@ -92,8 +92,16 @@ public partial class Quiz2 : ContentPage
         }
 
         await DisplayAlert("Quiz Result", $"You scored {score} out of {CurrentQuestion.Count}", "OK");
-    }
 
+        int quizquestionCount = CurrentQuestion.Count;
+        int quizScore = (int)(((double)score / quizquestionCount) * 100);
+        SessionManager.RecordQuizSubmission("Quiz1", quizScore);
+
+        DateTime submissionTime = DateTime.Now;
+        await Task.Delay(1500);
+        await Navigation.PushAsync(new Quiz1Results(CurrentQuestion, score, submissionTime));
+
+    }
 
     // this makes me want to claw my eyes out.
     //this is needed to make sure that when you press submit, and then change your answers later, you actually compare the selected questions with the correct answer.

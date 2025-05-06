@@ -25,6 +25,11 @@ namespace OESA
             Routing.RegisterRoute(nameof(Quiz2), typeof(Quiz2));
             Routing.RegisterRoute(nameof(Quiz3), typeof(Quiz3));
 
+            Routing.RegisterRoute(nameof(StudentInfo), typeof(StudentInfo));
+            Routing.RegisterRoute(nameof(Report), typeof(Report));
+
+            Routing.RegisterRoute(nameof(Quiz1Results), typeof(Quiz1Results));
+
         }
         public static async Task DisplaySnackbarAsync(string message)
         {

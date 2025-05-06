@@ -93,6 +93,17 @@ public partial class Quiz1 : ContentPage
         }
 
         await DisplayAlert("Quiz Result", $"You scored {score} out of {CurrentQuestion.Count}", "OK");
+
+        // this records that grades and sends it to the report.
+        int quizquestionCount = CurrentQuestion.Count;
+        int quizScore = (int)(((double)score / quizquestionCount) * 100);
+        SessionManager.RecordQuizSubmission("Quiz1", quizScore);
+
+
+        DateTime submissionTime = DateTime.Now;
+        await Task.Delay(1500);
+        await Navigation.PushAsync(new Quiz1Results(CurrentQuestion, score, submissionTime));
+
     }
 
     private void OnRadioCheckedChanged(object sender, CheckedChangedEventArgs e)
@@ -109,5 +120,4 @@ public partial class Quiz1 : ContentPage
             }
         }
     }
-
 }
