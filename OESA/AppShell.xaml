@@ -8,10 +8,6 @@
     Shell.FlyoutBehavior="Flyout"
     Title="OESA">
 
-    <ShellItem Route="Homepage">
-        <ShellContent ContentTemplate="{DataTemplate pages:Homepage}" />
-    </ShellItem>
-
     <!-- Sidebar layout stuff -->
     <ShellContent
         Title="Home"
@@ -30,6 +26,12 @@
         Icon="Logout.png"
         ContentTemplate="{DataTemplate pages:Logout}"
         Route="Logout" />
+
+    <ShellContent
+        Title="SignUp"
+        Icon="SignUp.png"
+        ContentTemplate="{DataTemplate pages:SignUp}"
+        Route="SignUp" />
 
     <Shell.FlyoutFooter>
         <Grid Padding="15">

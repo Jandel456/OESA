@@ -3,48 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\quiz1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\questionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\questionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\quiz1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\logout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\logout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\logout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\logout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\oesa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\oesa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\logout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\logout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\quiz2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,12 +39,36 @@
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\selectquiz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\selectquiz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\quiz3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\quiz1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\questionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\questionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\selectquiz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,40 +79,12 @@
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\quiz1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\quiz3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\oesa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\oesa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,195 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QuestionItem.cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\QuestionItem.cs",
-              "RelativeDocumentMoniker": "OESA\\Pages\\QuestionItem.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\QuestionItem.cs",
-              "RelativeToolTip": "OESA\\Pages\\QuestionItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T07:22:18.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": ".cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\.cs",
-              "RelativeDocumentMoniker": "OESA\\.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\.cs",
-              "RelativeToolTip": "OESA\\.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T07:21:49.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OESA.csproj",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\OESA.csproj",
-              "RelativeDocumentMoniker": "OESA\\OESA.csproj",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\OESA.csproj",
-              "RelativeToolTip": "OESA\\OESA.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-01T05:00:12.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Converter.cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Converter.cs",
-              "RelativeDocumentMoniker": "OESA\\Converter.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Converter.cs",
-              "RelativeToolTip": "OESA\\Converter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T05:00:25.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SignUp.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SignUp.xaml.cs",
-              "RelativeDocumentMoniker": "OESA\\Pages\\SignUp.xaml.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SignUp.xaml.cs",
-              "RelativeToolTip": "OESA\\Pages\\SignUp.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T23:46:58.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SelectQuiz.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SelectQuiz.xaml.cs",
-              "RelativeDocumentMoniker": "OESA\\Pages\\SelectQuiz.xaml.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SelectQuiz.xaml.cs",
-              "RelativeToolTip": "OESA\\Pages\\SelectQuiz.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAgAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T23:46:48.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Quiz3.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz3.xaml.cs",
-              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz3.xaml.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz3.xaml.cs",
-              "RelativeToolTip": "OESA\\Pages\\Quiz3.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T23:46:39.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Quiz2.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz2.xaml.cs",
-              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz2.xaml.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz2.xaml.cs",
-              "RelativeToolTip": "OESA\\Pages\\Quiz2.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T23:46:25.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Quiz1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz1.xaml.cs",
-              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz1.xaml.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz1.xaml.cs",
-              "RelativeToolTip": "OESA\\Pages\\Quiz1.xaml.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T18:39:09.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Login.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Login.xaml.cs",
-              "RelativeDocumentMoniker": "OESA\\Pages\\Login.xaml.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Login.xaml.cs",
-              "RelativeToolTip": "OESA\\Pages\\Login.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T18:38:53.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Logout.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Logout.xaml.cs",
-              "RelativeDocumentMoniker": "OESA\\Pages\\Logout.xaml.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Logout.xaml.cs",
-              "RelativeToolTip": "OESA\\Pages\\Logout.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T18:38:48.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Homepage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Homepage.xaml.cs",
-              "RelativeDocumentMoniker": "OESA\\Pages\\Homepage.xaml.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Homepage.xaml.cs",
-              "RelativeToolTip": "OESA\\Pages\\Homepage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T18:33:08.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "OESA\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\AppShell.xaml.cs",
-              "RelativeToolTip": "OESA\\AppShell.xaml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAvwB4AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T17:39:03.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\AppShell.xaml",
-              "RelativeDocumentMoniker": "OESA\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\AppShell.xaml",
-              "RelativeToolTip": "OESA\\AppShell.xaml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-29T17:38:54.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\App.xaml.cs",
-              "RelativeDocumentMoniker": "OESA\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\App.xaml.cs",
-              "RelativeToolTip": "OESA\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T17:36:24.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 12,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\App.xaml",
               "RelativeDocumentMoniker": "OESA\\App.xaml",
@@ -318,131 +110,267 @@
               "RelativeToolTip": "OESA\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-29T17:36:20.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SelectQuiz.xaml",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SelectQuiz.xaml",
-              "RelativeDocumentMoniker": "OESA\\Pages\\SelectQuiz.xaml",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SelectQuiz.xaml",
-              "RelativeToolTip": "OESA\\Pages\\SelectQuiz.xaml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-29T17:26:23.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SignUp.xaml",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SignUp.xaml",
-              "RelativeDocumentMoniker": "OESA\\Pages\\SignUp.xaml",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SignUp.xaml",
-              "RelativeToolTip": "OESA\\Pages\\SignUp.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-29T17:25:54.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Quiz3.xaml",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz3.xaml",
-              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz3.xaml",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz3.xaml",
-              "RelativeToolTip": "OESA\\Pages\\Quiz3.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-29T17:25:31.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Quiz2.xaml",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz2.xaml",
-              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz2.xaml",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz2.xaml",
-              "RelativeToolTip": "OESA\\Pages\\Quiz2.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-29T17:25:23.355Z",
+              "WhenOpened": "2025-05-06T14:36:53.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Quiz1.xaml",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz1.xaml",
-              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz1.xaml",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz1.xaml",
-              "RelativeToolTip": "OESA\\Pages\\Quiz1.xaml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-29T17:25:15.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Logout.xaml",
               "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Logout.xaml",
               "RelativeDocumentMoniker": "OESA\\Pages\\Logout.xaml",
               "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Logout.xaml",
               "RelativeToolTip": "OESA\\Pages\\Logout.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-29T17:25:01.711Z",
+              "WhenOpened": "2025-05-06T14:34:54.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Login.xaml",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Login.xaml",
-              "RelativeDocumentMoniker": "OESA\\Pages\\Login.xaml",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Login.xaml",
-              "RelativeToolTip": "OESA\\Pages\\Login.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-29T17:24:51.324Z"
+              "DocumentIndex": 17,
+              "Title": "SelectQuiz.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SelectQuiz.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\SelectQuiz.xaml.cs",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SelectQuiz.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\SelectQuiz.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:29:26.001Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Homepage.xaml",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Homepage.xaml",
-              "RelativeDocumentMoniker": "OESA\\Pages\\Homepage.xaml",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Homepage.xaml",
-              "RelativeToolTip": "OESA\\Pages\\Homepage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-29T17:24:40.014Z"
+              "DocumentIndex": 7,
+              "Title": "Quiz2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz2.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz2.xaml.cs",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz2.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\Quiz2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:33:52.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "OESA\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\GlobalUsings.cs",
-              "RelativeToolTip": "OESA\\GlobalUsings.cs",
+              "DocumentIndex": 19,
+              "Title": "Quiz1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz1.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz1.xaml.cs",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz1.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\Quiz1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:33:45.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuestionItem.cs",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\QuestionItem.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\QuestionItem.cs",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\QuestionItem.cs",
+              "RelativeToolTip": "OESA\\Pages\\QuestionItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T17:16:18.331Z",
+              "WhenOpened": "2025-05-06T14:33:42.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "OESA\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\MauiProgram.cs",
-              "RelativeToolTip": "OESA\\MauiProgram.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Title": "Logout.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Logout.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Logout.xaml.cs",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Logout.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\Logout.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T17:15:50.489Z",
+              "WhenOpened": "2025-05-06T14:33:38.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Homepage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Homepage.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Homepage.xaml.cs",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Homepage.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\Homepage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:33:25.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Homepage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Homepage.xaml",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Homepage.xaml",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Homepage.xaml",
+              "RelativeToolTip": "OESA\\Pages\\Homepage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T14:33:25.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SessionManager.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SessionManager.cs",
+              "RelativeToolTip": "OESA\\Pages\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:20:13.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\AppShell.xaml",
+              "RelativeDocumentMoniker": "OESA\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\AppShell.xaml",
+              "RelativeToolTip": "OESA\\AppShell.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T14:12:05.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SelectQuiz.xaml",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SelectQuiz.xaml",
+              "RelativeDocumentMoniker": "OESA\\Pages\\SelectQuiz.xaml",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SelectQuiz.xaml",
+              "RelativeToolTip": "OESA\\Pages\\SelectQuiz.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T14:09:37.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Quiz2.xaml",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz2.xaml",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz2.xaml",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz2.xaml",
+              "RelativeToolTip": "OESA\\Pages\\Quiz2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T14:09:19.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Quiz1.xaml",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz1.xaml",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz1.xaml",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz1.xaml",
+              "RelativeToolTip": "OESA\\Pages\\Quiz1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T14:09:17.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Login.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\Login.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:04:18.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SignUp.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\SignUp.xaml.cs",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SignUp.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\SignUp.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:02:18.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUp.xaml",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SignUp.xaml",
+              "RelativeDocumentMoniker": "OESA\\Pages\\SignUp.xaml",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\SignUp.xaml",
+              "RelativeToolTip": "OESA\\Pages\\SignUp.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T14:02:03.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Login.xaml",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Login.xaml",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Login.xaml",
+              "RelativeToolTip": "OESA\\Pages\\Login.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T13:50:16.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Quiz3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz3.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz3.xaml.cs",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz3.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\Quiz3.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:50:10.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Quiz3.xaml",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz3.xaml",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz3.xaml",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Quiz3.xaml",
+              "RelativeToolTip": "OESA\\Pages\\Quiz3.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T13:50:08.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OESA",
+              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\OESA.csproj",
+              "RelativeDocumentMoniker": "OESA\\OESA.csproj",
+              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\OESA.csproj",
+              "RelativeToolTip": "OESA\\OESA.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T13:49:57.047Z",
               "EditorCaption": ""
             }
           ]

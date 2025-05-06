@@ -6,6 +6,9 @@ public partial class Homepage : ContentPage
 	{
 		InitializeComponent();
 
+        UserLabel.Text = $"Hi, {SessionManager.UserName}";
+
+
         DateLabel.Text = $"Today's date: {DateTime.Now.ToString("MMMM dd, yyyy")}";
 
         InspirationalQuote.Text = "First, solve the problem. Then, write the code";

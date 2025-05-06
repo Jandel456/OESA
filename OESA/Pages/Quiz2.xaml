@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:OESA.Pages"
              x:Class="OESA.Pages.Quiz2"
              Title="Quiz2">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="20">
+
+            <Grid Padding="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <HorizontalStackLayout Grid.Row="0" HorizontalOptions="End">
+                    <Label x:Name="UserLabel"
+                   FontSize="14"
+                   FontAttributes="Bold"
+                   TextColor="DarkSlateGray" />
+                </HorizontalStackLayout>
+            </Grid>
+            
+            <CollectionView ItemsSource="{Binding CurrentQuestion}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <VerticalStackLayout Padding="10">
+                            <Label Text="{Binding QuestionText}" 
+                               FontSize="20" 
+                               FontAttributes="Bold" 
+                               HorizontalTextAlignment="Start" />
+
+                            <VerticalStackLayout 
+                            BindableLayout.ItemsSource="{Binding Options}">
+                                <BindableLayout.ItemTemplate>
+                                    <DataTemplate>
+                                        <RadioButton 
+                                            Content="{Binding .}" 
+                                            GroupName="{Binding Source={RelativeSource AncestorType={x:Type local:QuestionItem}}, Path=QuestionText}" 
+                                            CheckedChanged="OnRadioCheckedChanged" />
+
+                                    </DataTemplate>
+                                </BindableLayout.ItemTemplate>
+                            </VerticalStackLayout>
+                        </VerticalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <Button Text="Submit" 
+                Clicked="OnSubmit"
+                WidthRequest="300" 
+                HeightRequest="100" />
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

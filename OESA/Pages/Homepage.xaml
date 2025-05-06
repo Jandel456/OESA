@@ -6,6 +6,20 @@
 
     <VerticalStackLayout Padding="20" Spacing="25" VerticalOptions="Center">
 
+        <Grid Padding="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <HorizontalStackLayout Grid.Row="0" HorizontalOptions="End">
+                <Label x:Name="UserLabel"
+                   FontSize="14"
+                   FontAttributes="Bold"
+                   TextColor="DarkSlateGray" />
+            </HorizontalStackLayout>
+        </Grid>
+
         <Label Text="Welcome to Our Main Homepage"
                FontSize="32"
                HorizontalOptions="Center"
