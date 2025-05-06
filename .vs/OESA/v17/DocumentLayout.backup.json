@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\",
+  "WorkspaceRootPath": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,24 +22,66 @@
     {
       "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+=======
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\quiz1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\logout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\questionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\questionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\quiz1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\logout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\logout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+>>>>>>> Stashed changes
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\logout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\logout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\logout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\logout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+=======
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\quiz2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\oesa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\oesa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+>>>>>>> Stashed changes
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\quiz2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\quiz2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\quiz2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -53,12 +96,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+=======
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\selectquiz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\selectquiz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\selectquiz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\quiz3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -72,19 +120,59 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\selectquiz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\selectquiz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\selectquiz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\quiz3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\quiz3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\pages\\quiz1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\jandel_win\\source\\repos\\oesa\\oesa\\oesa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\oesa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+=======
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\quiz3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\quiz3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|c:\\users\\sacre\\onedrive - suny morrisville\\desktop\\oesa_final\\oesa\\oesa\\oesa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9740D209-3E4C-4051-9901-018B28D19108}|OESA\\OESA.csproj|solutionrelative:oesa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -94,7 +182,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 16,
+=======
+          "SelectedChildIndex": 9,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,27 +194,281 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 12,
+=======
+              "DocumentIndex": 15,
+              "Title": "SelectQuiz.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\SelectQuiz.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\SelectQuiz.xaml.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\SelectQuiz.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\SelectQuiz.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:46:48.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Quiz3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Quiz3.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz3.xaml.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Quiz3.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\Quiz3.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:46:39.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Quiz2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Quiz2.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz2.xaml.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Quiz2.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\Quiz2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:46:25.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quiz1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Quiz1.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz1.xaml.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Quiz1.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\Quiz1.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:39:09.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Login.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\Login.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:38:53.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Logout.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Logout.xaml.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Logout.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\Logout.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:38:48.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Homepage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Homepage.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Homepage.xaml.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Homepage.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\Homepage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:33:08.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\AppShell.xaml.cs",
+              "RelativeToolTip": "OESA\\AppShell.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAvwB4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:39:03.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quiz1.xaml",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Quiz1.xaml",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz1.xaml",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Quiz1.xaml",
+              "RelativeToolTip": "OESA\\Pages\\Quiz1.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T17:25:15.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignUp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\SignUp.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\SignUp.xaml.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\SignUp.xaml.cs",
+              "RelativeToolTip": "OESA\\Pages\\SignUp.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:46:58.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Converter.cs",
+              "RelativeDocumentMoniker": "OESA\\Converter.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Converter.cs",
+              "RelativeToolTip": "OESA\\Converter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:00:25.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OESA.csproj",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\OESA.csproj",
+              "RelativeDocumentMoniker": "OESA\\OESA.csproj",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\OESA.csproj",
+              "RelativeToolTip": "OESA\\OESA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T05:00:12.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\.cs",
+              "RelativeDocumentMoniker": "OESA\\.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\.cs",
+              "RelativeToolTip": "OESA\\.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:21:49.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionItem.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\QuestionItem.cs",
+              "RelativeDocumentMoniker": "OESA\\Pages\\QuestionItem.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\QuestionItem.cs",
+              "RelativeToolTip": "OESA\\Pages\\QuestionItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:22:18.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\AppShell.xaml",
+              "RelativeDocumentMoniker": "OESA\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\AppShell.xaml",
+              "RelativeToolTip": "OESA\\AppShell.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T17:38:54.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\App.xaml.cs",
+              "RelativeDocumentMoniker": "OESA\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\App.xaml.cs",
+              "RelativeToolTip": "OESA\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:36:24.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+>>>>>>> Stashed changes
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\App.xaml",
               "RelativeDocumentMoniker": "OESA\\App.xaml",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\App.xaml",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\App.xaml",
               "RelativeToolTip": "OESA\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+<<<<<<< Updated upstream
               "WhenOpened": "2025-05-06T14:36:53.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+=======
+              "WhenOpened": "2025-04-29T17:36:20.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SelectQuiz.xaml",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\SelectQuiz.xaml",
+              "RelativeDocumentMoniker": "OESA\\Pages\\SelectQuiz.xaml",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\SelectQuiz.xaml",
+              "RelativeToolTip": "OESA\\Pages\\SelectQuiz.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T17:26:23.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SignUp.xaml",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\SignUp.xaml",
+              "RelativeDocumentMoniker": "OESA\\Pages\\SignUp.xaml",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\SignUp.xaml",
+              "RelativeToolTip": "OESA\\Pages\\SignUp.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T17:25:54.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Quiz3.xaml",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Quiz3.xaml",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz3.xaml",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Quiz3.xaml",
+              "RelativeToolTip": "OESA\\Pages\\Quiz3.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T17:25:31.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Quiz2.xaml",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Quiz2.xaml",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Quiz2.xaml",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Quiz2.xaml",
+              "RelativeToolTip": "OESA\\Pages\\Quiz2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T17:25:23.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+>>>>>>> Stashed changes
               "Title": "Logout.xaml",
-              "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Logout.xaml",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Logout.xaml",
               "RelativeDocumentMoniker": "OESA\\Pages\\Logout.xaml",
-              "ToolTip": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Logout.xaml",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Logout.xaml",
               "RelativeToolTip": "OESA\\Pages\\Logout.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+<<<<<<< Updated upstream
               "WhenOpened": "2025-05-06T14:34:54.852Z",
               "EditorCaption": ""
             },
@@ -177,10 +523,50 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T14:33:42.543Z",
               "EditorCaption": ""
+=======
+              "WhenOpened": "2025-04-29T17:25:01.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Login.xaml",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Login.xaml",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Login.xaml",
+              "RelativeToolTip": "OESA\\Pages\\Login.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T17:24:51.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Homepage.xaml",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Homepage.xaml",
+              "RelativeDocumentMoniker": "OESA\\Pages\\Homepage.xaml",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\Pages\\Homepage.xaml",
+              "RelativeToolTip": "OESA\\Pages\\Homepage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T17:24:40.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "OESA\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\GlobalUsings.cs",
+              "RelativeToolTip": "OESA\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:16:18.331Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+<<<<<<< Updated upstream
               "Title": "Logout.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Jandel_Win\\source\\repos\\OESA\\OESA\\Pages\\Logout.xaml.cs",
               "RelativeDocumentMoniker": "OESA\\Pages\\Logout.xaml.cs",
@@ -372,6 +758,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-06T13:49:57.047Z",
               "EditorCaption": ""
+=======
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "OESA\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive - SUNY Morrisville\\Desktop\\OESA_Final\\OESA\\OESA\\OESA\\MauiProgram.cs",
+              "RelativeToolTip": "OESA\\MauiProgram.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:15:50.489Z"
+>>>>>>> Stashed changes
             }
           ]
         }
