@@ -974,3 +974,5 @@ C:\Users\sacre\OneDrive - SUNY Morrisville\Desktop\OESA_Final\OESA\OESA\OESA\obj
 C:\Users\sacre\OneDrive - SUNY Morrisville\Desktop\OESA_Final\OESA\OESA\OESA\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\sacre\OneDrive - SUNY Morrisville\Desktop\OESA_Final\OESA\OESA\OESA\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\sacre\OneDrive - SUNY Morrisville\Desktop\OESA_Final\OESA\OESA\OESA\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jandel_Win\source\repos\OESA\OESA\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\background_img.scale-100.jpg
+C:\Users\Jandel_Win\source\repos\OESA\OESA\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\background_img.scale-100.jpg
