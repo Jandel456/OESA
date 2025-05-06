@@ -13,115 +13,115 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OESA
-build_property.ProjectDir = C:\Users\Jandel_Win\source\repos\OESA\OESA\
+build_property.ProjectDir = C:\Users\sacre\OneDrive - SUNY Morrisville\Desktop\OESA_Final\OESA\OESA\OESA\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/App.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/AppShell.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Controls/AddButton.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Pages/Controls/AddButton.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Controls.AddButton.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Controls\AddButton.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Controls\AddButton.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Controls/CategoryChart.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Pages/Controls/CategoryChart.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Controls.CategoryChart.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Controls\CategoryChart.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Controls\CategoryChart.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Controls/ProjectCardView.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Pages/Controls/ProjectCardView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Controls.ProjectCardView.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Controls\ProjectCardView.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Controls\ProjectCardView.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Controls/TagView.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Pages/Controls/TagView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Controls.TagView.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Controls\TagView.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Controls\TagView.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Controls/TaskView.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Pages/Controls/TaskView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Controls.TaskView.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Controls\TaskView.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Controls\TaskView.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Homepage.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Pages/Homepage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Homepage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Homepage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Homepage.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Login.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Pages/Login.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Login.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Login.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Login.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Logout.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Pages/Logout.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Logout.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Logout.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Logout.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Quiz1.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Pages/Quiz1.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Quiz1.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Quiz1.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Quiz1.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Quiz2.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Pages/Quiz2.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Quiz2.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Quiz2.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Quiz2.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/Quiz3.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Pages/Quiz3.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.Quiz3.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Quiz3.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Quiz3.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/SelectQuiz.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Pages/SelectQuiz.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.SelectQuiz.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\SelectQuiz.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\SelectQuiz.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Pages/SignUp.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Pages/SignUp.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Pages.SignUp.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\SignUp.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\SignUp.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Resources/Styles/AppStyles.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Resources/Styles/AppStyles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Resources.Styles.AppStyles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\AppStyles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\AppStyles.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Resources/Styles/Colors.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Jandel_Win/source/repos/OESA/OESA/Resources/Styles/Styles.xaml]
+[C:/Users/sacre/OneDrive - SUNY Morrisville/Desktop/OESA_Final/OESA/OESA/OESA/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = OESA.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
